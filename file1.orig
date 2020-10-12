@@ -1,0 +1,15 @@
+This is firstline
+<<<<<<< HEAD
+2ndline
+
+1stline f1
+
+1stline 1f
+2ndline asdsadf
+=======
+2ndline 
+1stline f1
+1stline 1f
+2ndline asdsadf
+
+>>>>>>> fix1
